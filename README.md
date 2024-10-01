@@ -1,2 +1,2 @@
 # SIH
-Front-end of a chatbot made for smart india hackathon
+Chatbot made for Smart India Hackathon
